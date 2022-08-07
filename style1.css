@@ -1,0 +1,59 @@
+body{
+    background-color: hsl(30, 38%, 92%);
+}
+#img1{
+   
+   width: 320px;
+    height: 250px;
+    margin: 20px 20px 0;
+}
+h1{
+    font-family: 'Fraunces', serif;
+    font-size: 30px;
+}
+h3{
+    font-family: 'Montserrat', sans-serif;
+    font-weight: normal;
+    color: hsl(228, 12%, 48%);
+    font-size: 14px;
+}
+p{
+    color: hsl(228, 12%, 48%);
+}
+.dollarbill{
+    display: inline-block;
+    margin-right: 20px;
+}
+.top-container{
+    background-color: white;
+}
+.middle-container{
+    width: 75%;
+    margin: auto;
+    padding: 25px;
+    background-color: hsl(0, 0%, 100%);
+}
+.bottom-container { 
+    font-size: 11px; 
+    text-align: center; 
+}
+.bottom-container a { 
+    color: hsl(228, 45%, 44%); 
+}
+button {
+    -webkit-border-radius: 8;
+    -moz-border-radius: 8;
+    border-radius: 8px;
+    font-family: 'Montserrat', sans-serif;
+    color: #ffffff;
+    font-size: 15px;
+    background-color: hsl(158, 36%, 37%);
+    padding: 10px 90px 10px 90px;
+    text-decoration: none;
+    border-style: none;
+}
+  
+button:hover {
+    background-color: hsl(212, 21%, 14%);
+    text-decoration: none;
+}

@@ -1,0 +1,84 @@
+body{
+    background-color: hsl(30, 38%, 92%);
+}
+.top-container{
+    margin: 10% 15% 10% 25%;
+}
+.img{
+    padding-right: 0px;
+    width: 400px;
+    height: 500px;
+}
+.img-fluid{
+    height: 516px;
+    width: 400px;
+    border-radius: 15px 0 0 15px;
+}
+.text{
+    background-color: white;
+    border-radius: 0 15px 15px 0;
+    padding: 3.3rem;
+    width: 400px;
+    height: 515.6px;
+}
+
+
+/****************** TEXT ******************/
+h3{
+    font-size: 0.85rem;
+    font-weight: lighter;
+    font-family: 'Montserrat';
+    color: hsl(228, 12%, 48%);
+}
+h1{
+    font-family: 'Fraunces';
+}
+p{
+    font-family: 'Montserrat';
+    color: hsl(228, 12%, 48%);
+}
+.dollar-head{
+    color: hsl(158, 36%, 37%);
+}
+.dollarbill{
+    display: inline-block;
+    margin: 15px 5px 23px;
+}
+.doll-sm{
+    text-decoration: line-through;
+    position: relative;
+    bottom: 7px;
+}
+
+/**************** BUTTON ****************/
+.btn{
+    padding-top: 10px;
+    padding-bottom: 10px;  
+    font-family: 'Montserrat';
+    font-size: 0.85rem;
+}
+#img{
+    padding-right: 5px;
+}
+
+
+/**************** BOTTOM CONTAINER ***************/
+.bottom-container{
+    text-align: center;
+    /* margin: auto; */
+}
+
+/* 
+@media (max-width: 1308){
+    .img{
+        padding-right: 0px;
+        width: 400px;
+        height: 400px;
+    }  
+    
+    .img-fluid{
+        height: 400px;
+        width: 400px;
+        border-radius: 15px 15px 0 0;
+    }
+} */
